@@ -3,6 +3,8 @@
 Exploratory Data Analysis - Netflix. 
 This is a Data Analysis project on Netflix dataset.
 
+Dataset Link - https://drive.google.com/file/d/1p630pDcSkbQp_WXig8PeEVevZtSo4GQK/view
+
 Data Preprocessing Task: 
 
 Task. 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
